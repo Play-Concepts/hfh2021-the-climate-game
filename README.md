@@ -1,8 +1,18 @@
-# climategame
+# The Climate Game
 
-A new Flutter project.
+A Flutter application created during the [Hack From Home 2021 - DeCarbonisation](https://hackfromhome.com).
 
-## Getting Started
+It aims to share information about Climate Change and Other Environmental Issues through firstly Quizzes 
+and in the future through more advanced Gamifications.
+
+It is ultimately targeted at children.
+
+## Privacy Concerns
+The application is extended with Dataswift's Personal Data Accounts technology https://dataswift.io
+
+Authentication is performed against the PDA and all usage data and scores are stored in the PDA.
+
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
